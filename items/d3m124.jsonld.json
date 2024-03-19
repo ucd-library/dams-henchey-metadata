@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d3m124.tif"
+  },
+  "schema:creator": "Henchey, Paul L.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1951-07-26"
+  },
+  "schema:identifier": [
+    "D-515, Box:1",
+    "ark:/87293/d3m124"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt12903596"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photograph: negative",
+  "schema:name": "St. Columncille's Catholic Church near French Corral, Calif., used as Hall by Birdgeport \"Union\" Guards in the 1860's and became Church in 1869, SV-256",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

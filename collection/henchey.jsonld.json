@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1210251"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204820"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205660"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204269"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204563"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "This collection contains 1506 negatives which were photographed by Paul L. Henchey (1913-1957). The images are of rural areas throughout California, Arizona, Colorado, Nevada, New Mexico, and Utah. The photographs, which were taken from 1947-1954, are predominately of buildings, mines and mills. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt12903596).",
+  "schema:identifier": "D-515",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3x707/d3x707.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt12903596/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Henchey (Paul L.) Photographs",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}
