@@ -41,7 +41,10 @@
     "@value": "2020"
   },
   "schema:description": "This collection contains 1506 negatives which were photographed by Paul L. Henchey (1913-1957). The images are of rural areas throughout California, Arizona, Colorado, Nevada, New Mexico, and Utah. The photographs, which were taken from 1947-1954, are predominately of buildings, mines and mills. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt12903596).",
-  "schema:identifier": "D-515",
+  "schema:identifier": [
+    "D-515",
+    "ark:/87293/d39g5gm57"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3x707/d3x707.tif"
   },
