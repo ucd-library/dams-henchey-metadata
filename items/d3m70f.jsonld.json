@@ -28,7 +28,7 @@
     "ark:/87293/d3m70f"
   ],
   "schema:image": {
-    "@id": "@base:/d3m70f.jpg"
+    "@id": "@base:/d3m70f.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt12903596"

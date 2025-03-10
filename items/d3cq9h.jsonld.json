@@ -28,7 +28,7 @@
     "D-515, Box:5"
   ],
   "schema:image": {
-    "@id": "@base:/d3cq9h.jpg"
+    "@id": "@base:/d3cq9h.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt12903596"

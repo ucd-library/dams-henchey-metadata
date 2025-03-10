@@ -28,7 +28,7 @@
     "ark:/87293/d38723"
   ],
   "schema:image": {
-    "@id": "@base:/d38723.jpg"
+    "@id": "@base:/d38723.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt12903596"
