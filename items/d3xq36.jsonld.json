@@ -30,9 +30,6 @@
   "schema:image": {
     "@id": "@base:/d3xq36.tif"
   },
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt12903596"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
