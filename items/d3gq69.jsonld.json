@@ -27,9 +27,6 @@
     "ark:/87293/d3gq69",
     "D-515, Box:2"
   ],
-  "schema:image": {
-    "@id": "@base:/d3gq69.tif"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
